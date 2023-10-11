@@ -10,7 +10,7 @@
 
 ## Programação
 
-### Lógica de Programação
-
 01 - Lógica de Programação: Mergulhe na programação JavaScript
-02 - Lógica de Programação: Explore funções e listas (Em andamento)
+02 - Lógica de Programação: Explore funções e listas
+03 - Git e Github: Controle e compartilhe seu código
+04 - Lógica de Programação: praticando com desafios (Em andamento)
