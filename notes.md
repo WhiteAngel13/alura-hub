@@ -6,5 +6,5 @@ english_version: false
 
 ## UX Design: como construir uma persona
 
-- [] Criar um gerador de persona
-- [] Criar uma persona para o projeto do VTT
+- [ ] Criar um gerador de persona
+- [ ] Criar uma persona para o projeto do VTT
