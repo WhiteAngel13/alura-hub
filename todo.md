@@ -1,0 +1,52 @@
+# Programação
+
+- [x] A partir do zero: iniciante em programação
+- [ ] APIs com Node.js e Express
+- [ ] Aprenda a programar em C# com Orientação a Objetos
+- [ ] Aprenda a programar em Java com Orientação a Objetos
+- [x] Aprenda a programar em JavaScript com foco no back-end
+- [ ] Aprenda a programar em PHP
+- [ ] Aprenda a programar em Python com Orientação a Objetos
+- [ ] Aprofunde em .NET com Arquitetura de Microsserviços e RabbitMQ
+- [ ] Aprofunde em Java com arquitetura de Microsserviços, Spring e RabbitMQ
+- [ ] Aprofunde em Kotlin e DevOps com uma aplicação Cloud Native
+- [ ] Aprofunde em Node.js com arquitetura Serverless
+- [ ] Aprofunde em PHP com arquitetura e padrões de projeto
+- [ ] Aprofunde em PHP com Arquitetura, Design e Escalabilidade de Sistemas
+- [ ] Aprofunde em PHP com programação funcional, assíncrona e metaprogramação
+- [ ] ASP.Net Core: crie aplicações com C#, .NET, Entity Framework e LINQ
+- [ ] Autenticação, testes e segurança em Node.js
+- [ ] Boas práticas em C#
+- [ ] Boas Práticas em Java
+- [ ] Boas práticas em PHP
+- [ ] C# e Orientação a Objetos: coleções, arquivos e bibliotecas
+- [ ] Carreira QA: processos e automação de testes
+- [ ] Certificação Java
+- [ ] Começando com Flask: framework web de Python
+- [ ] Desenvolvimento de Jogos com Unity
+- [ ] Django REST APIs: crie aplicações REST em Python
+- [ ] Django: crie aplicações em Python
+- [ ] Engenharia de software
+- [ ] Full stack JavaScript: crie um projeto com React e Node.js
+- [ ] Integre aplicações Java com Banco de dados
+- [ ] Internet das Coisas
+- [ ] Java e Spring Boot
+- [ ] Java Web: crie aplicações usando Spring Boot
+- [ ] Kotlin e Spring Boot
+- [ ] Laravel: crie aplicações web em PHP
+- [ ] Linguagem C
+- [ ] Linguagem C++
+- [ ] Linguagem Clojure
+- [ ] Linguagem Elixir
+- [ ] Linguagem Go
+- [ ] Linguagem Kotlin
+- [ ] Linguagem Rust
+- [ ] Nest.js: aplicações Node.js eficientes e escaláveis do lado do servidor
+- [ ] PHP Web: crie aplicações web em PHP
+- [ ] PowerShell: automatize suas tarefas
+- [ ] Programação paralela com Threads em Java
+- [ ] Raspberry Pi e Internet das Coisas
+- [ ] Robótica, Microcontroladores e Eletrônica Aplicada
+- [ ] Symfony e Doctrine: crie aplicações web em PHP
+- [ ] Testes em .NET
+- [ ] VB.NET

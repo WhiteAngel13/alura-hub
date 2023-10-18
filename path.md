@@ -1,5 +1,5 @@
 --
-cursor: 15
+cursor: 17
 --
 
 # Qual ordem dos cursos que eu fiz?
@@ -39,6 +39,10 @@ cursor: 15
 ### Automação e Performance
 
 16 - HTTP: Entendendo a web por baixo dos panos
+
+### JavaScript
+
+17 - Crie páginas dinâmicas
 
 ## DevOps
 
