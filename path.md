@@ -1,3 +1,7 @@
+--
+cursor: 15
+--
+
 # Qual ordem dos cursos que eu fiz?
 
 ## UX&Design
@@ -29,6 +33,12 @@
 12 - Algoritmos II
 13 - Criando bibliotecas
 14 - POO
+
+## Front-end
+
+### Automação e Performance
+
+16 - HTTP: Entendendo a web por baixo dos panos
 
 ## DevOps
 
