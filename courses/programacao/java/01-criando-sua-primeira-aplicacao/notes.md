@@ -1,0 +1,1 @@
+Aqui os professores ensinaram a base de Java, tipos primitivos, declaração de variáveis, loops, condicionais, funções... Tudo muito parecido com typescript até agora, com a única diferença que o tipo vem na frente da variável, e não depois, fiz até o fim e implementei a classe no "Exercises"

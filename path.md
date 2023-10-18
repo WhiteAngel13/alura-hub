@@ -1,5 +1,5 @@
 --
-cursor: 17
+cursor: 19
 --
 
 # Qual ordem dos cursos que eu fiz?
@@ -34,6 +34,14 @@ cursor: 17
 13 - Criando bibliotecas
 14 - POO
 
+### Java
+
+19 - Criando sua primeira aplicação
+
+### Computação
+
+17 - Arquitetura de computadores
+
 ## Front-end
 
 ### Automação e Performance
@@ -42,7 +50,7 @@ cursor: 17
 
 ### JavaScript
 
-17 - Crie páginas dinâmicas
+18 - Crie páginas dinâmicas
 
 ## DevOps
 
