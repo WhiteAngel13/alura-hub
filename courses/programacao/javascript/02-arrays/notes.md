@@ -1,0 +1,1 @@
+- Trabalhando a 3 anos com JS, isso meio que se torna trivial, só pulei
